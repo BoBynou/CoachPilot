@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoachPilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+847d9d260c2ff7c80d2cb1777b719a5129f33e16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ed4c8b1af2266a3d5e600b3ef54e47d729e084")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoachPilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoachPilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
